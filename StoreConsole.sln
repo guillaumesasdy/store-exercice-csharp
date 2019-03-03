@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreLogic", "StoreLogic\StoreLogic.csproj", "{5E76A9DA-4D9D-4B70-BBD2-12DBE2FCDE60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreLogic.Tests", "StoreLogic.Tests\StoreLogic.Tests.csproj", "{A7E72357-28F9-4835-AEC0-3536BE65A68B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E76A9DA-4D9D-4B70-BBD2-12DBE2FCDE60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E76A9DA-4D9D-4B70-BBD2-12DBE2FCDE60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E76A9DA-4D9D-4B70-BBD2-12DBE2FCDE60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E76A9DA-4D9D-4B70-BBD2-12DBE2FCDE60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7E72357-28F9-4835-AEC0-3536BE65A68B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7E72357-28F9-4835-AEC0-3536BE65A68B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7E72357-28F9-4835-AEC0-3536BE65A68B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7E72357-28F9-4835-AEC0-3536BE65A68B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FCA861A-84BD-457C-BFC0-F8E012434F21}
+	EndGlobalSection
+EndGlobal
