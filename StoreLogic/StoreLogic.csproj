@@ -49,6 +49,7 @@
   <ItemGroup>
     <Compile Include="INameQuantity.cs" />
     <Compile Include="IStore.cs" />
+    <Compile Include="NameQuantity.cs" />
     <Compile Include="NotEnoughInventoryException.cs" />
     <Compile Include="Store.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
